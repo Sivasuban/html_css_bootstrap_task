@@ -1,0 +1,5 @@
+.through li:nth-child(even){
+    text-decoration: line-through;
+    color:grey;
+    
+}

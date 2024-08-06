@@ -1,0 +1,29 @@
+.img-fluid{
+    width: 100vw;
+    height: 100vh;
+}
+
+
+.card-body{
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+
+h1{
+    color: #1f2933;
+}
+
+p{
+    color: #7b8794;
+    width: 40vw;
+}
+
+.button{
+    background-color: #1a2137;
+    color: white;
+    border: none;
+}
+
